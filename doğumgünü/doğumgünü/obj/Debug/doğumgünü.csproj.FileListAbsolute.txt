@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\doğumgünü\doğumgünü\bin\Debug\doğumgünü.exe.config
+C:\Users\User\source\repos\doğumgünü\doğumgünü\bin\Debug\doğumgünü.exe
+C:\Users\User\source\repos\doğumgünü\doğumgünü\bin\Debug\doğumgünü.pdb
+C:\Users\User\source\repos\doğumgünü\doğumgünü\obj\Debug\doğumgünü.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\doğumgünü\doğumgünü\obj\Debug\doğumgünü.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\doğumgünü\doğumgünü\obj\Debug\doğumgünü.Form1.resources
+C:\Users\User\source\repos\doğumgünü\doğumgünü\obj\Debug\doğumgünü.Properties.Resources.resources
+C:\Users\User\source\repos\doğumgünü\doğumgünü\obj\Debug\doğumgünü.csproj.GenerateResource.cache
+C:\Users\User\source\repos\doğumgünü\doğumgünü\obj\Debug\doğumgünü.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\doğumgünü\doğumgünü\obj\Debug\doğumgünü.exe
+C:\Users\User\source\repos\doğumgünü\doğumgünü\obj\Debug\doğumgünü.pdb
